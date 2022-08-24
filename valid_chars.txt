@@ -27,6 +27,7 @@ A-Z
 ]"
 
 /*
+ansi-symbols
 numbers
 
 latin+extensions
